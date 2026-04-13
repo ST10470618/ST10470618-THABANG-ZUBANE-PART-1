@@ -1,0 +1,9 @@
+C:\Users\Student\Documents\CyberSecurityChatbot\CyberSecurityChatbot\bin\Debug\CyberSecurityChatbot.exe.config
+C:\Users\Student\Documents\CyberSecurityChatbot\CyberSecurityChatbot\bin\Debug\CyberSecurityChatbot.exe
+C:\Users\Student\Documents\CyberSecurityChatbot\CyberSecurityChatbot\bin\Debug\CyberSecurityChatbot.pdb
+C:\Users\Student\Documents\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.exe
+C:\Users\Student\Documents\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.pdb
+C:\Users\Student\Documents\CyberSecurityChatbot\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.exe.config
+C:\Users\Student\Documents\CyberSecurityChatbot\CyberSecurityChatbot\bin\Debug\Assets\greeting.wav
